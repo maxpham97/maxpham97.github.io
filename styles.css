@@ -2,7 +2,7 @@
 
 /* Hide scrollbar */
 html {
-    scrollbar-width: none; /* For Firefox */
+    scrollbar-width: none;
     -ms-overflow-style: none; /* For Internet Explorer and Edge */
 }
 
